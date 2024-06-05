@@ -4,6 +4,10 @@
 
 <br>
 
+## 🔗 환경
+
+colab, python 3.10
+
 ## 🔗 Algorithm
 
 Detectron2(https://github.com/facebookresearch/detectron2)
