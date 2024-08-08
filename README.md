@@ -1,6 +1,8 @@
 # 🎓 Capstone
 
-전신주 데이터 Object Detection 및 Instance segmentation
+전신주 부품 Object Detection 및 Instance segmentation
+
+구체정인 과정 기록 -> https://false-challenge-ba9.notion.site/AI-e3b5f9b3d3474cb097c9543a58de9d0b?pvs=4
 
 <br>
 
@@ -14,11 +16,11 @@ Detectron2(https://github.com/facebookresearch/detectron2)
 
 ## 🔗 Data set
 
-### - 클래스
+### 클래스
 
 폴리머현수, 폴리머LP, 접속개소, LA, TR
 
-### - 데이터 개수
+### 데이터 개수
 
 training data : 1126  
 test data : 1000
